@@ -1,0 +1,1 @@
+This Project was to analyze census data populations In order to understand various aspects of populations such as age,  education, salary of people etc.
